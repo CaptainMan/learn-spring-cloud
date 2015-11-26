@@ -1,4 +1,4 @@
-package ignoreme.learn_spring_cloud.app;
+package ignoreme.learn_spring_cloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
