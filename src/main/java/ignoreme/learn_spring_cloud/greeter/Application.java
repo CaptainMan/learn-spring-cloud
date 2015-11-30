@@ -1,4 +1,4 @@
-package ignoreme.learn_spring_cloud;
+package ignoreme.learn_spring_cloud.greeter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

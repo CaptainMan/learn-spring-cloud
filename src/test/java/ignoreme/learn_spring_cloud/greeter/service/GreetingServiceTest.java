@@ -1,4 +1,4 @@
-package ignoreme.learn_spring_cloud.service;
+package ignoreme.learn_spring_cloud.greeter.service;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,6 +1,5 @@
-package ignoreme.learn_spring_cloud.web;
+package ignoreme.learn_spring_cloud.greeter.web;
 
-import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
 
 import org.junit.Before;
@@ -9,7 +8,9 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
-import ignoreme.learn_spring_cloud.service.GreetingService;
+import static org.junit.Assert.assertEquals;
+
+import ignoreme.learn_spring_cloud.greeter.service.GreetingService;
 
 @RunWith(MockitoJUnitRunner.class)
 public class GreetingControllerTest {

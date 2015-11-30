@@ -1,4 +1,4 @@
-package ignoreme.learn_spring_cloud.service;
+package ignoreme.learn_spring_cloud.greeter.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
