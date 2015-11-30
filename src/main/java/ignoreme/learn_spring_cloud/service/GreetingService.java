@@ -10,7 +10,7 @@ public class GreetingService {
     private final String userName;
 
     @Autowired
-    public GreetingService(@Value("Bill") String userName) {
+    public GreetingService(@Value("${greetings.userName}") String userName) {
         this.userName = userName;
     }
 
